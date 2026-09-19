@@ -1,0 +1,26 @@
+{
+  "1": {
+    "teamId": "1",
+    "teamName": "Team 1",
+    "completionTime": "00:00:05",
+    "timestamp": "2026-09-19T06:42:09.803Z"
+  },
+  "2": {
+    "teamId": "2",
+    "teamName": "Team 2",
+    "completionTime": "00:00:05",
+    "timestamp": "2026-09-19T06:42:23.604Z"
+  },
+  "3": {
+    "teamId": "3",
+    "teamName": "Team 3",
+    "completionTime": "00:00:08",
+    "timestamp": "2026-09-19T06:43:13.916Z"
+  },
+  "4": {
+    "teamId": "4",
+    "teamName": "Team 4",
+    "completionTime": "00:00:04",
+    "timestamp": "2026-09-19T06:43:45.673Z"
+  }
+}

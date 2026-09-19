@@ -1,0 +1,2011 @@
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 752.2047 cm
+q
+BT 1 0 0 1 0 26 Tm 167.1011 0 Td 22 TL /F2 18 Tf 0 0 0 rg (Vault \227 15 Rounds) Tj  T* -75.51899 0 Td (Full Questions, Answers & Solutions) Tj T* -91.58211 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 714.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Corrected full version based on the uploaded 15-round PDF. Round 6, Section 4 is corrected: the original PDF gives 56) Tj T* (kg / digit 6, but the equation yields 48 kg, so the correct vault digit is 8 and the corrected Round 6 code is 3498.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.8661 cm
+Q
+q
+1 0 0 1 48.51969 674.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 652.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 633.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 4\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\) ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 3\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1\) = 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 614.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 593.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 574.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: A number decreases by 10% to give 90. Find 1% of the original number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 555.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Original = 100, 1% = 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 515.8661 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 483.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 464.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 9 km \(facing North\). Turns left, walks 2 km. Turns left, walks 4 km. Turns right, walks 9 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 445.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 5 km. Turns left, walks 4 km. What is the shortest distance \(km, rounded to nearest whole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 426.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: number\) between her final position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 407.8661 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(-7,0\). Distance = sqrt\(-7^2+0^2\) = 7.00 -) Tj (> rounds to 7.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 388.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 367.8661 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 358.1969 cm
+Q
+q
+1 0 0 1 48.51969 339.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 1\): 7170) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: \(x + 2\)/2 + \(x + 2\)/4 = 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: A sum of ) Tj /F4 9.4 Tf 13 TL (n) Tj /F1 9.4 Tf 13 TL (200 grows to ) Tj /F4 9.4 Tf 13 TL (n) Tj /F1 9.4 Tf 13 TL (236 in a year at simple interest. Find 10% of the interest earned \(rounded\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Interest = 36, 10% = 3.6 ) Tj /F3 9.4 Tf 13 TL (\273) Tj /F1 9.4 Tf 13 TL ( 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 3 km \(facing North\). Turns right, walks 3 km. Turns left, walks 5 km. Turns left, walks 4 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 549.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 3 km. Turns left, walks 7 km. Turns right, walks 2 km. What is the shortest distance \(km,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 530.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL -0.115219 Tw (Question: rounded to nearest whole number\) between her final position and the start? \(If more than 9, give the last digit.\)) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 48.51969 511.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(6,3\). Distance = sqrt\(6^2+3^2\) = 6.71 -) Tj (> rounds to 7.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 492.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 471.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 461.5354 cm
+Q
+q
+1 0 0 1 48.51969 442.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 2\): 6474) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 2\(3x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1\) ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 3\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\) = 10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: A number is 20% more than 15. Find 20% of the larger number \(rounded\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Larger number = 18, 20% = 3.6 ) Tj /F3 9.4 Tf 13 TL (\273) Tj /F1 9.4 Tf 13 TL ( 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL -0.05219 Tw (Question: each time: Walks 2 km \(facing North\). Turns right, walks 2 km. Turns right, walks 7 km. Turns left, walks 1 km.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 4 km. What is the shortest distance \(km, rounded to nearest whole number\) between her) Tj T* (final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(3,-1\). Distance = sqrt\(3^2+-1^2\) = 3.16 -) Tj (> rounds to 3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 458.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 448.5354 cm
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 3\): 2435) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: \(2x + 1\)/3 + \(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\)/2 = 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: 60% of a class of 45 students passed. Find the number of failed students divided by 3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Failed = 18, 18 \367 3 = 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL -0.05219 Tw (Question: each time: Walks 7 km \(facing North\). Turns right, walks 4 km. Turns left, walks 5 km. Turns right, walks 1 km.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 3 km. What is the shortest distance \(km, rounded to nearest whole number\) between her) Tj T* (final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(5,15\). Distance = sqrt\(5^2+15^2\) = 15.81 -) Tj (> rounds to 16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: -) Tj (> last digit 6.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 460.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 439.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+Q
+q
+1 0 0 1 48.51969 410.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 4\): 4664) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 3\(2x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1\) = 2\(2x + 4\) ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: 25% of a number equals 20. Find 10% of that number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Number = 80, 10% = 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 2 km \(facing North\). Turns left, walks 4 km. Turns left, walks 6 km. Turns right, walks 8 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 8 km. What is the shortest distance \(km, rounded to nearest whole number\) between her) Tj T* (final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(-12,-12\). Distance = sqrt\(-12^2+-12^2\) = 16.97 -) Tj (> rounds) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: to 17 -) Tj (> last digit 7.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 460.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 439.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+Q
+q
+1 0 0 1 48.51969 410.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 5\): 3870) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 11 ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1\) = 3x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: 80% of a number is 64. Find 5% of that number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Number = 80, 5% = 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 9 km \(facing North\). Turns left, walks 7 km. Turns right, walks 3 km. Turns left, walks 9 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 1 km. What is the shortest distance \(km, rounded to nearest whole number\) between her) Tj T* (final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(-16,11\). Distance = sqrt\(-16^2+11^2\) = 19.42 -) Tj (> rounds to) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: 19 -) Tj (> last digit 9.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 460.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 439.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+Q
+q
+1 0 0 1 48.51969 410.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 6\): 3498) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: x/2 + x/3 = 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: A number increased by 25% gives 40. Find 10% of the original number \(rounded\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Original = 32, 10% = 3.2 ) Tj /F3 9.4 Tf 13 TL (\273) Tj /F1 9.4 Tf 13 TL ( 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 1 km \(facing North\). Turns left, walks 5 km. Turns right, walks 8 km. Turns left, walks 1 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 549.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 3 km. Turns right, walks 6 km. Turns left, walks 2 km. What is the shortest distance \(km,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 530.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL -0.115219 Tw (Question: rounded to nearest whole number\) between her final position and the start? \(If more than 9, give the last digit.\)) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 48.51969 511.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(-12,4\). Distance = sqrt\(-12^2+4^2\) = 12.65 -) Tj (> rounds to 13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 492.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: -) Tj (> last digit 3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 473.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 452.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 442.5354 cm
+Q
+q
+1 0 0 1 48.51969 423.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 7\): 6330) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 5\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\) + 3 = 3x + 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: A number decreased by 20% becomes 32. Find 10% of the original number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Original = 40, 10% = 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 1 km \(facing North\). Turns left, walks 8 km. Turns right, walks 7 km. Turns left, walks 5 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 549.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Turns right, walks 4 km. Turns right, walks 1 km. What is the shortest distance \(km, rounded to nearest whole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 530.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: number\) between her final position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 511.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(-12,12\). Distance = sqrt\(-12^2+12^2\) = 16.97 -) Tj (> rounds to) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 492.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: 17 -) Tj (> last digit 7.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 473.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 452.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 442.5354 cm
+Q
+q
+1 0 0 1 48.51969 423.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 8\): 4472) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: \(x + 3\)/2 ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( \(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1\)/3 = 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: A student scores 72% in an exam out of 50 marks. Find 10% of the marks obtained \(rounded\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Score = 36, 10% = 3.6 ) Tj /F3 9.4 Tf 13 TL (\273) Tj /F1 9.4 Tf 13 TL ( 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL -0.05219 Tw (Question: each time: Walks 9 km \(facing North\). Turns right, walks 8 km. Turns left, walks 3 km. Turns right, walks 3 km.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 48.51969 549.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 8 km. Turns right, walks 3 km. What is the shortest distance \(km, rounded to nearest whole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 530.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: number\) between her final position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 511.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(14,20\). Distance = sqrt\(14^2+20^2\) = 24.41 -) Tj (> rounds to) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 492.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: 24 -) Tj (> last digit 4.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 473.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 452.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 442.5354 cm
+Q
+q
+1 0 0 1 48.51969 423.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 9\): 7445) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 2x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 3\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\) = ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: A number is increased by 10% twice, becoming 96.8. Find 5% of the original number \(rounded\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Original = 80, 5% = 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL -0.05219 Tw (Question: each time: Walks 4 km \(facing North\). Turns left, walks 1 km. Turns right, walks 6 km. Turns right, walks 4 km.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 5 km. What is the shortest distance \(km, rounded to nearest whole number\) between her) Tj T* (final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(3,15\). Distance = sqrt\(3^2+15^2\) = 15.30 -) Tj (> rounds to 15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: -) Tj (> last digit 5.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 460.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 439.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+Q
+q
+1 0 0 1 48.51969 410.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 10\): 7453) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 6\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1\) ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 4\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\) = x + 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 665.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Cost price of an item is ) Tj /F4 9.4 Tf 13 TL (n) Tj /F1 9.4 Tf 13 TL (20. It is marked up 50% and then sold at a 40% discount. Find 10% of the final) Tj T* (selling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 646.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: price \(rounded\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 627.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Final price = 18, 10% = 1.8 ) Tj /F3 9.4 Tf 13 TL (\273) Tj /F1 9.4 Tf 13 TL ( 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 608.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 555.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 1 km \(facing North\). Turns left, walks 2 km. Turns left, walks 9 km. Turns right, walks 4 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Turns right, walks 5 km. Turns right, walks 8 km. What is the shortest distance \(km, rounded to nearest whole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: number\) between her final position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(2,-3\). Distance = sqrt\(2^2+-3^2\) = 3.61 -) Tj (> rounds to 4.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 460.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 439.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+Q
+q
+1 0 0 1 48.51969 410.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 11\): 1241) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 3\(x + 2\) = 2\(x + 4\) + 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: 45% of x is 27. Find 10% of x, then subtract 1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: x = 60, 10% = 6, 6 ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1 = 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 8 km \(facing North\). Turns right, walks 3 km. Turns left, walks 8 km. Turns left, walks 3 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Turns right, walks 7 km. What is the shortest distance \(km, rounded to nearest whole number\) between her) Tj T* (final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(0,23\). Distance = sqrt\(0^2+23^2\) = 23.00 -) Tj (> rounds to 23) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: -) Tj (> last digit 3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 460.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 439.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+Q
+q
+1 0 0 1 48.51969 410.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 12\): 3530) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 3x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\(x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 3\) = 3x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: 75% of a number equals 9. Find 10% of that number \(rounded\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Number = 12, 10% = 1.2 ) Tj /F3 9.4 Tf 13 TL (\273) Tj /F1 9.4 Tf 13 TL ( 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL -0.05219 Tw (Question: each time: Walks 1 km \(facing North\). Turns right, walks 7 km. Turns right, walks 7 km. Turns left, walks 4 km.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Turns right, walks 6 km. What is the shortest distance \(km, rounded to nearest whole number\) between her) Tj T* (final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(11,-12\). Distance = sqrt\(11^2+-12^2\) = 16.28 -) Tj (> rounds to) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+BT 1 0 0 1 0 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Question: 16 -) Tj (> last digit 6.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 460.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 439.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+Q
+q
+1 0 0 1 48.51969 410.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 13\): 4165) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: 3\(2x + 1\) ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\(3x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1\) = x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: A price rises 10%, then falls 10%. The final price is 99. Find 1% of the original price.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Original = 100, 1% = 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL -0.05219 Tw (Question: each time: Walks 5 km \(facing North\). Turns right, walks 1 km. Turns right, walks 2 km. Turns left, walks 4 km.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 48.51969 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Turns left, walks 1 km. What is the shortest distance \(km, rounded to nearest whole number\) between her) Tj T* (final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(5,4\). Distance = sqrt\(5^2+4^2\) = 6.40 -) Tj (> rounds to 6.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 479.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 458.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 448.5354 cm
+Q
+q
+1 0 0 1 48.51969 429.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 14\): 6163) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Round 15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 756.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 1 \227 Linear Equations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 737.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Solve for x: \(3x ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 2\)/4 = \(x + 2\)/2 ) Tj /F3 9.4 Tf 13 TL (-) Tj /F1 9.4 Tf 13 TL ( 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 718.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Section 2 \227 Percentages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 678.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: 30% of a number is 24. Find 10% of that number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 3.6 Tm /F1 9.4 Tf 13 TL (Solution: Number = 80, 10% = 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 640.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 3 \227 Grid Direction & Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 587.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Question: Starting at her house facing North, Priya walks a sequence of legs, turning left/right relative to her current) Tj T* (facing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 568.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: each time: Walks 2 km \(facing North\). Turns left, walks 3 km. Turns left, walks 8 km. Turns right, walks 1 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 549.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: Turns right, walks 5 km. Turns right, walks 2 km. What is the shortest distance \(km, rounded to nearest whole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 530.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F1 9.4 Tf 13 TL (Question: number\) between her final position and the start? \(If more than 9, give the last digit.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 511.2047 cm
+q
+BT 1 0 0 1 10 3.6 Tm 13 TL /F1 9.4 Tf 0 0 0 rg (Solution: Tracking heading and \(x,y\): final position = \(-2,-1\). Distance = sqrt\(-2^2+-1^2\) = 2.24 -) Tj (> rounds to 2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 492.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Answer: 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 471.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 14 TL /F2 11.5 Tf 0 0 0 rg (Section 4 \227 Ratio & Mixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 461.5354 cm
+Q
+q
+1 0 0 1 48.51969 442.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 9.4 Tf 13 TL (Vault Code \(Round 15\): 2820) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 778.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Verified Vault Code Sequence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.252 386.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 384 226.7717 -24 re f*
+0 0 0 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 33.7763 368 Tm (Round) Tj T* ET
+BT 1 0 0 1 150.4921 368 Tm (Code) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 46.8263 344 Tm (1) Tj T* ET
+BT 1 0 0 1 151.8721 344 Tm (7170) Tj T* ET
+BT 1 0 0 1 46.8263 320 Tm (2) Tj T* ET
+BT 1 0 0 1 151.8721 320 Tm (6474) Tj T* ET
+BT 1 0 0 1 46.8263 296 Tm (3) Tj T* ET
+BT 1 0 0 1 151.8721 296 Tm (2435) Tj T* ET
+BT 1 0 0 1 46.8263 272 Tm (4) Tj T* ET
+BT 1 0 0 1 151.8721 272 Tm (4664) Tj T* ET
+BT 1 0 0 1 46.8263 248 Tm (5) Tj T* ET
+BT 1 0 0 1 151.8721 248 Tm (3870) Tj T* ET
+BT 1 0 0 1 46.8263 224 Tm (6) Tj T* ET
+BT 1 0 0 1 151.8721 224 Tm (3498) Tj T* ET
+BT 1 0 0 1 46.8263 200 Tm (7) Tj T* ET
+BT 1 0 0 1 151.8721 200 Tm (6330) Tj T* ET
+BT 1 0 0 1 46.8263 176 Tm (8) Tj T* ET
+BT 1 0 0 1 151.8721 176 Tm (4472) Tj T* ET
+BT 1 0 0 1 46.8263 152 Tm (9) Tj T* ET
+BT 1 0 0 1 151.8721 152 Tm (7445) Tj T* ET
+BT 1 0 0 1 44.0463 128 Tm (10) Tj T* ET
+BT 1 0 0 1 151.8721 128 Tm (7453) Tj T* ET
+BT 1 0 0 1 44.0463 104 Tm (11) Tj T* ET
+BT 1 0 0 1 151.8721 104 Tm (1241) Tj T* ET
+BT 1 0 0 1 44.0463 80 Tm (12) Tj T* ET
+BT 1 0 0 1 151.8721 80 Tm (3530) Tj T* ET
+BT 1 0 0 1 44.0463 56 Tm (13) Tj T* ET
+BT 1 0 0 1 151.8721 56 Tm (4165) Tj T* ET
+BT 1 0 0 1 44.0463 32 Tm (14) Tj T* ET
+BT 1 0 0 1 151.8721 32 Tm (6163) Tj T* ET
+BT 1 0 0 1 44.0463 8 Tm (15) Tj T* ET
+BT 1 0 0 1 151.8721 8 Tm (2820) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 384 m 226.7717 384 l S
+n 0 0 m 226.7717 0 l S
+n 0 0 m 0 384 l S
+n 226.7717 0 m 226.7717 384 l S
+n 0 360 m 226.7717 360 l S
+n 0 336 m 226.7717 336 l S
+n 0 312 m 226.7717 312 l S
+n 0 288 m 226.7717 288 l S
+n 0 264 m 226.7717 264 l S
+n 0 240 m 226.7717 240 l S
+n 0 216 m 226.7717 216 l S
+n 0 192 m 226.7717 192 l S
+n 0 168 m 226.7717 168 l S
+n 0 144 m 226.7717 144 l S
+n 0 120 m 226.7717 120 l S
+n 0 96 m 226.7717 96 l S
+n 0 72 m 226.7717 72 l S
+n 0 48 m 226.7717 48 l S
+n 0 24 m 226.7717 24 l S
+n 99.2126 0 m 99.2126 384 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 378.2047 cm
+Q
+q
+1 0 0 1 48.51969 346.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.6 Tm /F1 9.4 Tf 13 TL (Correction note: The uploaded PDF's Round 6 Section 4 states T = 56 kg and digit 6. Re-solving its displayed equation) Tj T* (gives T = 48 kg, so the corrected digit is 8 and the corrected code is 3498.) Tj T* ET
+Q
+Q
+ 
+
+---STREAM---
